@@ -1,2 +1,2 @@
 # MyAwesomeCart-Ecommerce-Project
-This is e-commerce website
+This is e-commerce website in django
